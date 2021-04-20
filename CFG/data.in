@@ -1,0 +1,23 @@
+#
+#
+#
+#
+Nonterminals:
+A S
+End
+Terminals:
+a
+b
+End
+Productions:
+A aAa
+A bAb
+A lambda
+End
+Queries:
+aa
+aaaa
+b
+ab
+bb
+End
